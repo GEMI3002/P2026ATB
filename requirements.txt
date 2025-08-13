@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+scikit-learn
+xgboost
+yfinance
+backtesting
+alpaca-trade-api
+python-dotenv
+ta
